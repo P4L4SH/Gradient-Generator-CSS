@@ -1,5 +1,7 @@
 # Gradient Generator 🎨  
 
+https://gradient-gen-css.netlify.app/
+
 A simple tool to create beautiful gradients and instantly copy their CSS code. Perfect for web developers and designers looking to enhance their projects with stylish backgrounds.  
 
 ---
